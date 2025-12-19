@@ -42,9 +42,7 @@ Clone the repository:
 git clone 
 
 # Open the notebook:
-
-- Python-Practice-Problems-HackerRank-1.ipynb
-- jupyter notebook Internship_Task-1.ipynb
+- Python_Programming_leetcode-1.ipynb
 - Run & explore the solutions.
 
 # 📚 Platform
