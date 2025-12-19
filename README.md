@@ -40,7 +40,7 @@ These are commonly asked easy–level LeetCode problems, ideal for building fund
 # 📌 How to Use
 Clone the repository:
 
-git clone : https://github.com/kusuma990/Python_leetcode_problem_solving-1
+git clone https://github.com/kusuma990/Python_leetcode_problem_solving-1
 
 # Open the notebook:
 - Python_Programming_leetcode-1.ipynb
