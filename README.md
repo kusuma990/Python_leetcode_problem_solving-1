@@ -51,6 +51,8 @@ All problems are sourced from:
 
 # 👩‍💻 Author
 Kusuma Kumari Bodduluri
-🎓 Data Science Student
-🐍 Python Programmer
-📈 DSA & Interview Preparation
+- 🔗 LinkedIn: www.linkedin.com/in/kusuma-kumari-bodduluri 
+- 💻 GitHub: https://github.com/kusuma990
+- 🎓 Data Science Student
+- 🐍 Python Programmer
+- 📈 DSA & Interview Preparation
